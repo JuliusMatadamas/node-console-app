@@ -1,12 +1,15 @@
 {
   "name": "console-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "Aplicacion de consola para el registro de tareas.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
 }
